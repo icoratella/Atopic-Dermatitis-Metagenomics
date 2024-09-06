@@ -1,10 +1,3 @@
----
-title: "Atopic Dermatitis Metagenomics"
-author: "Nome Autore"
-date: "`r Sys.Date()`"
-output: html_document
----
-
 ## Atopic Dermatitis: An Inside Look at the Role of the Skin Microbiome
 
 **Atopic dermatitis (AD)** is a widespread chronic skin inflammatory disease characterized by dysbiosis, an overgrowth of *Staphylococcus aureus*, and a relative reduction in commensal species. This study examined microbiome variations in adult patients suffering from severe AD to deepen our understanding of the primary bacterial components linked to this disorder. Furthermore, it also explored the therapeutic impact of Dupilumab on the skin microbiome of AD patients.
