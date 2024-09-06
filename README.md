@@ -37,4 +37,4 @@ Microbiome analysis resulted in significantly higher alpha diversity in lesional
 
 This study revealed critical differences in the skin microbiome between healthy individuals and AD patients. Treatment with Dupilumab led to a substantial decrease in *S. aureus* burden, supporting its potential as a therapeutic option. A deeper understanding of the dynamics modulating the AD microbiome might be crucial to finding specific biomarkers and providing better AD diagnosis and treatment.
 
-If you are interested in the details, here you can find the integral thesis.
+If you are interested in the details, [here](https://github.com/icoratella/Atopic-Dermatitis-Metagenomics/blob/main/thesis.pdf) you can find the integral thesis.
