@@ -8,7 +8,7 @@
 <style>
     .giustificato {
         text-align: justify;
-        text-justify: inter-word; /* Aggiunge spazi tra le parole per giustificare il testo */
+        text-justify: inter-word;
     }
 </style>
 </head>
