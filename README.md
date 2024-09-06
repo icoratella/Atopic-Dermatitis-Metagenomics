@@ -1,1 +1,1 @@
-# Atopic-Dermatitis-Metagenomics
+# Atopic Dermatitis Metagenomics
