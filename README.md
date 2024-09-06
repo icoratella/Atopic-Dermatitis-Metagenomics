@@ -1,4 +1,6 @@
 ## Atopic Dermatitis: An Inside Look at the Role of the Skin Microbiome
+Hello! In this project, I conducted a metagenomic analysis to characterize the microbiome associated with severe Atopic Dermatitis across three different sample types. I focused on identifying variations in the adult AD microbiome and assessed the therapeutic effects of Dupilumab on the skin microbiome. This involved comparing baseline microbiome data with results post-Dupilumab treatment to elucidate its impact. Here you can read the abstract and some results! Enjoy :)
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e2c14b4d-b507-47f7-8aff-144326519fa6" alt="Descrizione prima immagine" width="500px" height="auto" style="margin-right: 10px;">
   <img src="https://github.com/user-attachments/assets/68f0bb16-0820-421f-aad9-49cb322ba1d3" alt="Descrizione seconda immagine" width="500px" height="auto">
