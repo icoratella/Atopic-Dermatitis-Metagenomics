@@ -1,5 +1,5 @@
 # Scripts
-### Script 1
+### Script 1 - file_format_lefse.ipynb
 In the first script I did a bit of data manipulation, to change the format of my data to the one that could have suited the Lefse Galaxy tool, which have to respect the *following requisites*:
 <br>
 <br>
