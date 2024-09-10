@@ -7,3 +7,12 @@ The text tab-delimited input file consists of a list of numerical features, the 
 Although both column and row feature organization is accepted, given the high-dimensional nature of metagenomic data, the listing of the features in rows is preferred.
 
 ![immagine](https://github.com/user-attachments/assets/7946241d-9e52-44ca-956c-d45204db0b2a)
+
+### Script 2 - relative_abundance_phylum.ipynb
+
+This second script contains the code for analyzing microbial communities in skin affected by Atopic Dermatitis (AD). The scripts read microbial count data at the Phylum level from Excel files for lesioned skin (LE), non-lesioned skin (NL), and healthy skin (HS), consolidate it, and calculate relative abundances.
+
+The function `concat_excel_files(folder_path)` merges all Excel files from a specified directory into a single DataFrame, standardizing counts to derive relative abundances. The script then computes and visualizes these abundances across the different skin conditions using stacked bar charts, highlighting differences in microbial profiles. The analysis helps understand how microbial landscapes vary across affected and unaffected skin, potentially informing AD pathogenesis and treatment strategies.
+![immagine](https://github.com/user-attachments/assets/d6c14f29-5e86-4b72-acd2-bbaaed1318fb)
+
+
