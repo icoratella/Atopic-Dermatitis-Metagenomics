@@ -15,4 +15,12 @@ This second script contains the code for analyzing microbial communities in skin
 The function `concat_excel_files(folder_path)` merges all Excel files from a specified directory into a single DataFrame, standardizing counts to derive relative abundances. The script then computes and visualizes these abundances across the different skin conditions using stacked bar charts, highlighting differences in microbial profiles. The analysis helps understand how microbial landscapes vary across affected and unaffected skin, potentially informing AD pathogenesis and treatment strategies.
 ![immagine](https://github.com/user-attachments/assets/d6c14f29-5e86-4b72-acd2-bbaaed1318fb)
 
+### Script 3 - relative_abundance_Genus.ipynb
+
+In this third script, I am applying the same approach as before with the phyla, but this time at the *Genus* level. The key difference is that, to simplify the visualization of relative abundances, I will focus on the top 20 genera based on their relative abundance in Healthy Subjects and restrict my analysis to these genera.
+![immagine](https://github.com/user-attachments/assets/71a23733-26e1-4727-a27a-874b1b2a07be)
+
+
+
+
 
